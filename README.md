@@ -1,5 +1,3 @@
-# [Nvidia Overclocking Guide](Nvidia%20Overclocking.md)
-
 # Table of Contents
  
 1. [Prerequisites and Stability Tests](#prerequisites-and-stability-tests)
